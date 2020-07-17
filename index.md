@@ -2,7 +2,7 @@
 
 Acestea sunt retetele noastre:
 
-- [Paste](recipes/paste.md)
+- [Paste](recipes/paste.md) S
 - [Peste](recipes/peste.md)
 - [Pizza](recipes/pizza.md)
 
