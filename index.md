@@ -5,6 +5,10 @@ Acestea sunt retetele noastre:
 - [Paste](recipes/paste.md)
 - [Peste](recipes/peste.md)
 
-## Deserturi
+## Desert
 
-- [Peste](recipes/tiramisu.md)
+- [Tiramisu](recipes/tiramisu.md)
+
+## Bauturi
+
+- [Limonada](recipes/limonada.md)
