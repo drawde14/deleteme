@@ -1,0 +1,3 @@
+peste (pastrav)
+ulei
+faina
